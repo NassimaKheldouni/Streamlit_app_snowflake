@@ -21,4 +21,4 @@ st.multiselect("Pick some fruits:", list(my_fruit_list.index))
 st.dataframe(my_fruit_list)
 
 #Let's put a picklist here so that they can choose the fruit they want to select
-st.multiselect("Pick some fruits:", list(my_fruit_list.index), ['Avocado', 'Strawberries')
+st.multiselect("Pick some fruits:", list(my_fruit_list.index), ['Avocado', 'Strawberries'])
