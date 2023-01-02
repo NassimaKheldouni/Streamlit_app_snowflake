@@ -65,7 +65,7 @@ if st.button("Get fruit_load_list"):
    
 
 #STOP
-st.stop()
+#st.stop()
 
 #Allow the end user to add fruit to the list 
 def insert_row_snowflake(new_fruit):
